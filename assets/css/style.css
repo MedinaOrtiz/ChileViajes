@@ -1,0 +1,67 @@
+body {
+   background-color: #000000;
+   padding: 0;
+   margin: 0;
+   font-family:"Roboto", sans-serif;
+}
+
+.navbar-custom {
+   position: absolute;
+   top: 0;
+   width: 100%;
+   z-index: 10;
+   background-color: #3eccdf ;
+   position: fixed;
+}
+
+.scrollmenu a {
+   text-decoration: none;
+}
+
+.scrollmenu a:hover {
+   background-color: #0cddf8;
+   border-radius: 10px;
+   height: 40px;
+}
+
+.img-carousel {
+   width: 100%;
+   height: auto;
+   padding-bottom: 80px;
+}
+
+h2 {
+   text-align: center;
+   padding-bottom: 30px;
+   padding-top: 100px;
+}
+
+.fav-section {
+   background-color: #0cddf8;
+   width: 100%;
+   height: 30px;
+   text-align: center;
+   padding: 8px;
+   margin-bottom: 15px;
+}
+
+.card {
+   background-color: #0cddf8;
+   color: #ffffff;
+}
+
+.card img {
+   height: 200px;
+}
+
+footer {
+   background-color: #0cddf8;
+   height: 80px;
+   padding: 20px;
+   margin-top: 80px;
+}
+
+.fa-brands{
+   font-size: 1.8rem;
+   padding: 4px;
+}
